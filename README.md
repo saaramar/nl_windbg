@@ -5,6 +5,7 @@ It helps you look at the Nonpaged Pool memory managments stuctures (lookasides, 
 examine pool shapes, set convenient traces on functions, and execute shellcodes.
 
 ## Usage
+![alt text](https://github.com/saaramar/nl_windbg/raw/master/basic_example.png "")
 
 nl_windbg use pykd as base interface. For that, you'll have to setup pykd on your host.
 The usage is simple:
